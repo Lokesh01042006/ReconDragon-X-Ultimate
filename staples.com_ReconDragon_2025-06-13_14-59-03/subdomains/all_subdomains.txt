@@ -1,0 +1,945 @@
+0 (ASN) --> announces --> 149.72.132.0/24 (Netblock)
+0 (ASN) --> announces --> 170.131.14.0/24 (Netblock)
+0 (ASN) --> announces --> 170.37.205.0/24 (Netblock)
+0 (ASN) --> announces --> 170.37.241.0/24 (Netblock)
+0 (ASN) --> announces --> 172.16.0.0/12 (Netblock)
+0 (ASN) --> announces --> 20.230.141.0/24 (Netblock)
+0 (ASN) --> announces --> 20.85.115.0/24 (Netblock)
+0 (ASN) --> announces --> 3.232.208.0/24 (Netblock)
+0 (ASN) --> managed_by --> Reserved Network Address Blocks (RIROrganization)
+0 (ASN) --> managed_by --> Unknown (RIROrganization)
+109.102.37.170.in-addr.arpa (FQDN) --> ptr_record --> mweb-bqa-ned.staples.com (FQDN)
+11377 (ASN) --> announces --> 149.72.1.0/24 (Netblock)
+11377 (ASN) --> managed_by --> SENDGRID - SendGrid, Inc. (RIROrganization)
+120.131.37.170.in-addr.arpa (FQDN) --> ptr_record --> chatnow.staples.com (FQDN)
+13954 (ASN) --> announces --> 170.131.0.0/21 (Netblock)
+13954 (ASN) --> announces --> 170.131.14.0/24 (Netblock)
+13954 (ASN) --> managed_by --> STAPLES - Staples, Inc (RIROrganization)
+14618 (ASN) --> announces --> 18.204.0.0/14 (Netblock)
+14618 (ASN) --> managed_by --> AMAZON-AES - Amazon.com, Inc. (RIROrganization)
+149.72.1.0/24 (Netblock) --> contains --> 149.72.1.221 (IPAddress)
+149.72.1.0/24 (Netblock) --> contains --> 149.72.1.230 (IPAddress)
+149.72.132.0/24 (Netblock) --> contains --> 149.72.132.205 (IPAddress)
+170.131.0.0/21 (Netblock) --> contains --> 170.131.2.11 (IPAddress)
+170.131.0.0/21 (Netblock) --> contains --> 170.131.2.15 (IPAddress)
+170.131.0.0/21 (Netblock) --> contains --> 170.131.4.34 (IPAddress)
+170.131.0.0/21 (Netblock) --> contains --> 170.131.4.37 (IPAddress)
+170.131.14.0/24 (Netblock) --> contains --> 170.131.14.62 (IPAddress)
+170.37.100.0/22 (Netblock) --> contains --> 170.37.100.16 (IPAddress)
+170.37.100.0/22 (Netblock) --> contains --> 170.37.100.19 (IPAddress)
+170.37.100.0/22 (Netblock) --> contains --> 170.37.100.30 (IPAddress)
+170.37.100.0/22 (Netblock) --> contains --> 170.37.100.36 (IPAddress)
+170.37.100.0/22 (Netblock) --> contains --> 170.37.100.80 (IPAddress)
+170.37.100.0/22 (Netblock) --> contains --> 170.37.102.108 (IPAddress)
+170.37.100.0/22 (Netblock) --> contains --> 170.37.102.123 (IPAddress)
+170.37.100.0/22 (Netblock) --> contains --> 170.37.102.124 (IPAddress)
+170.37.100.0/22 (Netblock) --> contains --> 170.37.102.13 (IPAddress)
+170.37.100.0/22 (Netblock) --> contains --> 170.37.102.30 (IPAddress)
+170.37.100.0/22 (Netblock) --> contains --> 170.37.102.42 (IPAddress)
+170.37.100.0/22 (Netblock) --> contains --> 170.37.102.49 (IPAddress)
+170.37.100.0/22 (Netblock) --> contains --> 170.37.102.86 (IPAddress)
+170.37.106.0/23 (Netblock) --> contains --> 170.37.106.2 (IPAddress)
+170.37.128.0/21 (Netblock) --> contains --> 170.37.131.110 (IPAddress)
+170.37.128.0/21 (Netblock) --> contains --> 170.37.131.127 (IPAddress)
+170.37.128.0/21 (Netblock) --> contains --> 170.37.131.26 (IPAddress)
+170.37.128.0/21 (Netblock) --> contains --> 170.37.134.23 (IPAddress)
+170.37.128.0/21 (Netblock) --> contains --> 170.37.134.30 (IPAddress)
+170.37.144.0/22 (Netblock) --> contains --> 170.37.146.125 (IPAddress)
+170.37.144.0/22 (Netblock) --> contains --> 170.37.146.186 (IPAddress)
+170.37.144.0/22 (Netblock) --> contains --> 170.37.147.23 (IPAddress)
+170.37.144.0/22 (Netblock) --> contains --> 170.37.147.25 (IPAddress)
+170.37.144.0/22 (Netblock) --> contains --> 170.37.147.75 (IPAddress)
+170.37.148.0/23 (Netblock) --> contains --> 170.37.149.194 (IPAddress)
+170.37.148.0/23 (Netblock) --> contains --> 170.37.149.195 (IPAddress)
+170.37.148.0/23 (Netblock) --> contains --> 170.37.149.202 (IPAddress)
+170.37.148.0/23 (Netblock) --> contains --> 170.37.149.24 (IPAddress)
+170.37.205.0/24 (Netblock) --> contains --> 170.37.205.87 (IPAddress)
+170.37.241.0/24 (Netblock) --> contains --> 170.37.241.100 (IPAddress)
+170.37.244.0/23 (Netblock) --> contains --> 170.37.244.103 (IPAddress)
+170.37.244.0/23 (Netblock) --> contains --> 170.37.244.140 (IPAddress)
+170.37.244.0/23 (Netblock) --> contains --> 170.37.244.22 (IPAddress)
+170.37.244.0/23 (Netblock) --> contains --> 170.37.244.23 (IPAddress)
+170.37.244.0/23 (Netblock) --> contains --> 170.37.244.31 (IPAddress)
+170.37.244.0/23 (Netblock) --> contains --> 170.37.244.33 (IPAddress)
+170.37.244.0/23 (Netblock) --> contains --> 170.37.244.34 (IPAddress)
+170.37.244.0/23 (Netblock) --> contains --> 170.37.244.68 (IPAddress)
+172.16.0.0/12 (Netblock) --> contains --> 172.18.99.10 (IPAddress)
+18.204.0.0/14 (Netblock) --> contains --> 18.205.44.28 (IPAddress)
+19443 (ASN) --> announces --> 170.37.100.0/22 (Netblock)
+19443 (ASN) --> announces --> 170.37.106.0/23 (Netblock)
+19443 (ASN) --> announces --> 170.37.128.0/21 (Netblock)
+19443 (ASN) --> announces --> 170.37.144.0/22 (Netblock)
+19443 (ASN) --> announces --> 170.37.148.0/23 (Netblock)
+19443 (ASN) --> announces --> 170.37.244.0/23 (Netblock)
+19443 (ASN) --> managed_by --> STAPLES - Staples, Inc (RIROrganization)
+1ccr.1ccr.1ccr.1ccr.1ccr.1ccr.1ccr.1ccr.1ccr.1ccr.1ccr.1ccr.1ccr.1ccr.1ccr.1ccr.1ccr.1ccr.1ccr.1ccr.ann6.1ccr.1ccr.ann6.1ccr.1ccr.1ccr.1ccr.1ccr.1ccr.1ccr.1ccr.1ccr.1ccr.1ccr.1ccr.1ccr.1ccr.1ccr.1ccr.1ccr.1ccr.1ccr.1ccr.1ccr.paypay.ns1asn.sv.staples.com
+20.230.141.0/24 (Netblock) --> contains --> 20.230.141.242 (IPAddress)
+30.102.37.170.in-addr.arpa (FQDN) --> ptr_record --> nginx-sba-qa-ned.staples.com (FQDN)
+3.232.208.0/24 (Netblock) --> contains --> 3.232.208.133 (IPAddress)
+33070 (ASN) --> announces --> 66.216.64.0/19 (Netblock)
+33070 (ASN) --> managed_by --> RMH-14 - Rackspace Hosting (RIROrganization)
+3ddashboard-prod.staples.com (FQDN) --> cname_record --> enoviaprod2023x-ned.staples.com (FQDN)
+3dservices.staples.com
+3dspace-qa.staples.com (FQDN) --> cname_record --> enoviaqa2023x-ned.staples.com (FQDN)
+3dswym-prod.staples.com (FQDN) --> cname_record --> enoviaprod2023x-ned.staples.com (FQDN)
+52.102.37.170.in-addr.arpa (FQDN) --> ptr_record --> subnsave-qa1.staples.com (FQDN)
+62.23.0.0/21 (Netblock) --> contains --> 62.23.4.27 (IPAddress)
+66.216.64.0/19 (Netblock) --> contains --> 66.216.67.113 (IPAddress)
+8220 (ASN) --> announces --> 62.23.0.0/21 (Netblock)
+8220 (ASN) --> managed_by --> COLT COLT Technology Services Group Limited (RIROrganization)
+92.102.37.170.in-addr.arpa (FQDN) --> ptr_record --> ocrwebappqa-ned.staples.com (FQDN)
+access.staples.com
+accountglb.cloud.staples.com
+account.staples.com
+account.staples.com (FQDN) --> cname_record --> accountglb.cloud.staples.com (FQDN)
+acuradrivergear.staples.com
+acuragear.staples.com
+adfs.cloud.staples.com
+adfs.staples.com
+adfs.staples.com (FQDN) --> cname_record --> adfs.cloud.staples.com (FQDN)
+adh.staples.com
+ad.sv.staples.com
+advocate.staples.com
+advweb.staples.com
+agency1.staples.com
+agency2.staples.com
+agency.cloud.staples.com
+agency.staples.com
+agw1.agw1.agw1.agw1.agw1.agw1.agw1.agw1.agw1.agw1.agw1.agw1.agw1.agw1.agw1.agw1.agw1.agw1.agw1.agw1.a2.agw1.agw1.a2.agw1.agw1.agw1.agw1.agw1.agw1.agw1.agw1.agw1.agw1.sqa4-ned.agw1.agw1.agw1.agw1.agw1.agw1.agw1.agw1.agw1.agw1.ns.paypayo1n.sv.staples.com
+airwatchtunnelrelay-temp.staples.com
+alerts.staples.com
+api.staples.com
+api-staplespay.staples.com
+apollo-dev.staples.com
+apollo.staples.com
+apollo-uat.staples.com
+appcenter.staples.com
+approvals.staples.com
+app.staples.com
+app-staplespay.staples.com
+arke-api-prod-ned.staples.com
+arke-api-prod.staples.com
+arketingassets.staples.com
+assets.staples.com
+associateconnection-qap.staples.com
+associateconnection.staples.com
+auctions.staples.com
+autodiscover.staples.com
+awards.staples.com
+awrms.staples.com
+b2blink.cloud.staples.com
+b2bprf.cloud.staples.com
+bc1.sv.staples.com
+bca.staples.com
+bciediversitynetwork.cloud.staples.com
+bci_prd_3078.stapleslink.cloud.staples.com
+bci_prf_3078_stapleslink.cloud.staples.com
+bci_prf_3078_stapleslink.cloud.staples.com (FQDN) --> a_record --> 170.37.147.75 (IPAddress)
+bciprf_ediversitynetwork.cloud.staples.com
+bciprf_stapleslink.cloud.staples.com
+bciprod.stapleslink.cloud.staples.com
+bdctelecomlabasa.staples.com
+beta.staples.com
+bibsprd.staples.com
+bibs.staples.com
+bibs-stg.staples.com
+bibsstg.staples.com
+bl.staples.com
+bl.staples.com (FQDN) --> cname_record --> d3es9lj10rfyzo.cloudfront.net (FQDN)
+bluprint-apidev.staples.com
+bluprint-api.staples.com
+bluprint-dev.staples.com
+bluprint.staples.com
+bmmu.sv.staples.com (FQDN) --> a_record --> 18.205.44.28 (IPAddress)
+bmmu.sv.staples.com (FQDN) --> a_record --> 3.232.208.133 (IPAddress)
+bmtlovd1.sv.staples.com (FQDN) --> a_record --> 18.205.44.28 (IPAddress)
+bmtlovd1.sv.staples.com (FQDN) --> a_record --> 3.232.208.133 (IPAddress)
+boards.staples.com
+bomgar_prod_sharedip.staples.com
+bomgar_qa_sharedip.staples.com
+bookrental.staples.com
+botqa-ned.staples.com
+botqa.staples.com
+botqa.staples.com (FQDN) --> cname_record --> botqa-ned.staples.com (FQDN)
+bounce.staples.com
+bousbce-extb2.staples.com
+bousbce-extb2.staples.com (FQDN) --> a_record --> 170.131.14.62 (IPAddress)
+bouxwaye01.staples.com
+bouxwaye02.staples.com
+bouxwaye03.staples.com
+brand.staples.com
+browsegridqa.staples.com
+browsegrid.staples.com
+browserouteqa.staples.com
+browseroute.staples.com
+cadvperf.staples.com
+cadvprod.staples.com
+cams-new-test.staples.com
+canvpn.staples.com
+careers.staples.com
+ccr-service-test.staples.com
+ccr.staples.com
+ccr-test.staples.com
+ccr-test.staples.staples.com
+cdcdns01.staples.com
+cdn-pem.staples.com
+cdn-pem.staples.com (FQDN) --> cname_record --> pem.staples.com.edgesuite.net (FQDN)
+channel02qa.staples.com
+channeleuqa.staples.com
+channelqalb.staples.com (FQDN) --> a_record --> 170.37.146.186 (IPAddress)
+channelqa.staples.com
+channel.staples.com
+chatnoweu.staples.com
+chatnowlb.staples.com
+chatnow.staples.com
+chatqa.staples.com
+chuck-peoplesoft-iapp.staples.com
+cidcdns01.staples.com
+cidcnat1.staples.com
+citrixeu.staples.com
+citrix.staples.com
+cloud-bou2.staples.com
+cloud-bou.staples.com
+cloud-ndc2.staples.com
+cloud-ndc.staples.com
+cloud.staples.com (FQDN) --> ns_record --> cloud-bou.staples.com (FQDN)
+cloud.staples.com (FQDN) --> ns_record --> cloud-ndc.staples.com (FQDN)
+cmt-qa.staples.com
+cmt-qa.staples.com (FQDN) --> cname_record --> cmt-qa.staples.com.edgekey.net (FQDN)
+cmt.staples.com
+cnp-www-qa.staples.com
+collaborate.staples.com
+community.staples.com
+connection-stage.staples.com
+connect.staples.com
+contenthub-qa.staples.com
+contenthub.staples.com
+contract-apis.staples.com
+contract-apis-test.staples.com
+contractservices.staples.com
+contract.staples.com
+corpdmz2.staples.com
+corpdmz.staples.com
+cos-nonprod.staples.com
+cos.staples.com
+costmanagement-dev.staples.com
+costmanagement.staples.com
+coupons.staples.com
+coupon.staples.com
+cpfrtrain.staples.com
+create-instore.staples.com
+create.staples.com
+creativestage.staples.com
+cs.ediversitynetwork.cloud.staples.com
+csgtst.staples.com
+csp_prf_ediversitynetwork.cloud.staples.com
+cspregistration.staples.com
+c.staples.com
+c.staples.com (FQDN) --> cname_record --> lsct.ashburn.us1.twilio.com (FQDN)
+cted.staples.com
+ctxcloud.staples.com
+dadnidcpp01.staples.com
+dadnidcqt01.staples.com
+dataprotection.staples.com
+davinci-dev.staples.com
+davinci.staples.com
+davinci-uat.staples.com
+design.staples.com
+design.staples.com.edgekey.net (FQDN) --> cname_record --> e6155.x.akamaiedge.net (FQDN)
+design-uat.staples.com
+design-uat.staples.com (FQDN) --> cname_record --> splus-uat.pnimedia.com (FQDN)
+developer.easyapiqa.staples.com
+developers.staples.com
+devmarketplace.staples.com
+devmarketplace.staples.com (FQDN) --> cname_record --> devmarketplace.azurewebsites.net (FQDN)
+dev-staplespay.staples.com
+digitalmarketing.staples.com
+digitalsignage.staples.com
+dig-svc-test.staples.com
+dig-svc-test.staples.com (FQDN) --> a_record --> 170.37.149.195 (IPAddress)
+digtest.staples.com
+digtest.staples.com (FQDN) --> a_record --> 170.37.149.194 (IPAddress)
+directmail.staples.com
+documents.staples.com
+documents.staples.com (FQDN) --> cname_record --> design.staples.com.edgekey.net (FQDN)
+d.staples.com
+dtmc.staples.com
+dtm.staples.com
+dtm.staples.com (FQDN) --> cname_record --> c2333.dotomi.com (FQDN)
+easyapi-azure.cloud.staples.com
+easyapi-azure.staples.com
+easyapi.cloud.staples.com
+easyapi-dev.staples.com
+easyapid.staples.com
+easyapi-ibm.staples.com
+easyapi-prf.staples.com
+easyapiqa-azure.cloud.staples.com
+easyapiqa-azure.staples.com
+easyapiqa.staples.com
+easyapis.staples.com
+easyapi.staples.com
+easyapi.staples.com (FQDN) --> cname_record --> easyapi.staples.com.edgekey.net (FQDN)
+easymail.staples.com
+easymobilitytst.staples.com
+easy.staples.com
+easysystemapi-ned.staples.com
+easysystemapiqa-ned.staples.com
+easysystemapiqa.staples.com
+easysystemapi.staples.com
+easytechomsa1.staples.com
+easytechomsa2.staples.com
+easytechsupportqa.staples.com
+easytechsupport.staples.com
+ebusiness.staples.com
+ecldocuments.staples.com
+ecmmail1.orders.staples.com
+ecmmail2.orders.staples.com
+ecpnidcpp01.staples.com
+ecpnidcqf01.staples.com
+ecpnidcqf01.staples.com (FQDN) --> a_record --> 170.37.102.13 (IPAddress)
+ected.staples.com
+eddi1.staples.com
+eddi2.staples.com
+eddie.cloud.staples.com
+eddie.cloud.staples.com (FQDN) --> a_record --> 170.131.2.11 (IPAddress)
+eddie_mar.staples.com
+eddie-perf_mar.staples.com
+eddie.staples.com
+eddie.staples.com (FQDN) --> cname_record --> eddie.cloud.staples.com (FQDN)
+eddi.staples.com
+edge.cloud.staples.com
+edge.staples.com
+ed.staples.com
+egatewaynrt_staplesb2b.cloud.staples.com
+email.biz.staples.com
+email.staples.com
+em.connected.staples.com
+em.connected.staples.com (FQDN) --> mx_record --> mx.sendgrid.net (FQDN)
+em.info.staples.com (FQDN) --> cname_record --> u14397569.wl070.sendgrid.net (FQDN)
+emssbg-ned.staples.com
+enoviaprd-ned.staples.com
+enoviaprod2023x-ned.staples.com (FQDN) --> a_record --> 170.37.100.19 (IPAddress)
+enoviaqad-ned.staples.com
+epts-supplychain.staples.com
+e.staples.com
+etingassets.staples.com
+ets.staples.com
+euevdir.staples.com
+eufederation-qa.staples.com
+eufederation-qa.staples.com (FQDN) --> a_record --> 170.37.205.87 (IPAddress)
+eufederation.staples.com
+euprintqa.staples.com
+euprint.staples.com
+euqaevdir.staples.com
+eur2vpn.staples.com
+eur4vpn.staples.com
+eusso-qa.staples.com
+eusso.staples.com
+evant2.staples.com
+evant.cloud.staples.com
+ews.staples.com
+exchange-astage.staples.com
+exchange-qa.staples.com
+exchange-sfdstage.staples.com
+exchange.staples.com
+falconse.staples.com
+falconse.staples.com (FQDN) --> cname_record --> splus-falconse.pnimedia.com (FQDN)
+falcon.staples.com
+fdirectmail.staples.com
+federation-qa.staples.com
+federation.staples.com
+fedperf-sa.staples.com
+fedqa-sa.staples.com
+fedqa-sa.staples.com (FQDN) --> a_record --> 170.37.147.23 (IPAddress)
+fed-sa.cloud.staples.com
+fed-sa.staples.com
+flightdeck.staples.com
+flightdeck.staples.com (FQDN) --> cname_record --> splus-flightdeck.pnimedia.com (FQDN)
+fraexsmtp5.staples.com
+frasmtp3.staples.com
+frasmtp4.staples.com
+ftp.staples.com
+go.staples.com
+gp-api-tiera-sba-cart-prod-ned.staples.com
+gp-api-tiera-sba-cart-prod-ned.staples.com (FQDN) --> a_record --> 170.37.100.16 (IPAddress)
+gp-api-tiera-sba-cart-prod.staples.com
+gp-api-tiera-sba-cart-qa-ned.staples.com
+gp-api-tiera-sba-cart-qa.staples.com
+gp-api-tiera-sba-membership-prod-bou.staples.com
+gs.staples.com
+hch-perf-cms.staples.com
+hch-perf-ned.staples.com
+hch-perf-ned.staples.com (FQDN) --> a_record --> 170.37.102.124 (IPAddress)
+hch-perf.staples.com
+hch-prod-cms.staples.com
+hch-prod-cms.staples.com (FQDN) --> cname_record --> hch-prod-ned.staples.com (FQDN)
+hch-prod-ned.staples.com
+hch-prod.staples.com
+hch-qa-cms.staples.com
+hch-qa-ned.staples.com
+hch-qa-ned.staples.com (FQDN) --> a_record --> 170.37.102.123 (IPAddress)
+hch-qa.staples.com
+heliospf.staples.com
+heliosqat.staples.com
+holidaycards.staples.com
+holidaycards.staples.com (FQDN) --> cname_record --> staplesholiday.navitor.com (FQDN)
+hondadrivergear.staples.com
+hondagear.staples.com
+hondapodstore.staples.com
+hondapowergear.staples.com
+hpdracingstore.staples.com
+hrconnect-dev2.staples.com
+hub1tmp.staples.com
+hub2tmp.staples.com
+hubapp-ned.staples.com
+hub.cloud.staples.com
+hubtest.staples.com
+iam-qa.staples.com
+iam.staples.com
+iam.staples.com (FQDN) --> a_record --> 170.37.131.26 (IPAddress)
+iesnidcpp01.staples.com
+ies.staples.com
+ikebanalotus.cloud.staples.com
+ikebanalotus.staples.com
+ikebanatulipqa-ned.staples.com
+ikebanatulipqa-ned.staples.com (FQDN) --> a_record --> 170.37.102.49 (IPAddress)
+ingassets.staples.com
+ink.staples.com
+insidesales.staples.com
+instoredirectmail.staples.com
+instoredirectmail.staples.com (FQDN) --> cname_record --> staplesdirectmailstore.com (FQDN)
+instorespecials.staples.com
+instorespecials.staples.com (FQDN) --> cname_record --> staples.shoplocal.com (FQDN)
+intapi.staples.com
+internal.staples.com
+intperfsolutionbuilder-ned.staples.com
+intperfsolutionbuilder.staples.com
+intperfsolutionbuilder.staples.com (FQDN) --> cname_record --> intperfsolutionbuilder-ned.staples.com (FQDN)
+intsolutionbuilder-ned.staples.com
+intsolutionbuilder.staples.com
+investor.staples.com
+irectmail.staples.com
+iris-api-qa1-ned.staples.com
+isr.staples.com
+jss2.staples.com
+jssdownload.staples.com
+jss.staples.com
+junipertest.staples.com
+kaptcha.staples.com
+kaptcha.staples.com (FQDN) --> cname_record --> kaptcha.staples.com.edgekey.net (FQDN)
+k.connected.staples.com
+ketingassets.staples.com
+ksidev.staples.com
+ksi.staples.com
+k.staples.com
+labmail.staples.com
+labzdm.staples.com
+lctgpnasv01.staples.com
+link.connected.staples.com
+linkconnected.staples.com
+link.connected.staples.com (FQDN) --> cname_record --> sendgrid.net (FQDN)
+link.info.staples.com
+link.staples.com
+li.staples.com
+li.staples.com (FQDN) --> cname_record --> 70c9d97ff2dc6b774eba6efda3343020.edgesuite.net (FQDN)
+loginca.cloud.staples.com
+loginned.cloud.staples.com
+loginned.cloud.staples.com (FQDN) --> a_record --> 170.131.2.15 (IPAddress)
+login.staples.com
+lvcxtnasp01-vip.staples.com
+lyncdiscover.staples.com
+macengconn.staples.com (FQDN) --> a_record --> 170.37.131.110 (IPAddress)
+mail1.staples.com
+mail2.staples.com
+mail3.staples.com
+mail4.staples.com
+mail5.staples.com
+mail.cloud.staples.com
+mail.staples.com
+manhassets.staples.com
+map2.staples.com
+map.staples.com
+map.staples.com (FQDN) --> a_record --> 170.37.244.68 (IPAddress)
+maptest-ndc.staples.com
+marketingassets.staples.com
+mbasketbuilder.staples.com (FQDN) --> cname_record --> mstaplesold.skavaone.com (FQDN)
+mchapi-poc.staples.com
+mchapi-poc.staples.com (FQDN) --> cname_record --> mobile-se-elasticl-1rgjnfj8zmwla-1708119092.us-east-1.elb.amazonaws.com (FQDN)
+mdfp.staples.com
+measure-apindev.staples.com
+measure-apin.staples.com
+measure-apipdev.staples.com
+measure-apip.staples.com
+mediamanager.staples.com
+media.staples.com
+merch-api-ned.staples.com
+merch-api-qa-ned.staples.com
+merch-api-qa.staples.com
+merch-api.staples.com
+merch-api.staples.com (FQDN) --> cname_record --> merch-api-ned.staples.com (FQDN)
+merchservices-ned.staples.com
+merchservices.staples.com
+metrics.staples.com
+minternal-dev.staples.com
+minternal-preprod.staples.com
+minternal-preview.staples.com
+minternal-qa.staples.com
+minternal.staples.com
+mkt.staples.com
+mlbqa.staples.com
+mobilegw2.staples.com
+mobile-np.staples.com
+mrs1.staples.com (FQDN) --> a_record --> 170.37.134.23 (IPAddress)
+msds.cloud.staples.com
+msds.cloud.staples.com (FQDN) --> a_record --> 170.37.100.30 (IPAddress)
+msds.staples.com
+m.staples.com
+mstorelocator.staples.com (FQDN) --> cname_record --> mstaplesold.skavaone.com (FQDN)
+mweb-baccept-ned.staples.com
+mweb-baccept-ned.staples.com (FQDN) --> a_record --> 170.37.102.108 (IPAddress)
+mweb-baccept.staples.com
+mweb-bdev-ned.staples.com
+mweb-bdev.staples.com
+mweb-bqa-ned.staples.com
+mweb-bqa.staples.com
+mweb-bqa.staples.com (FQDN) --> cname_record --> mweb-bqa-ned.staples.com (FQDN)
+mweb-poc.staples.com
+mweb.staples.com
+mycal.staples.com
+mycitrix.staples.com
+mycitrixt1.staples.com
+myincentives.staples.com
+myportal1tmp.staples.com
+myportal1tmp.staples.com (FQDN) --> a_record --> 170.37.244.103 (IPAddress)
+myportal2tmp.staples.com (FQDN) --> a_record --> 170.37.241.100 (IPAddress)
+myportal.cloud.staples.com
+mytimemobile-qa.staples.com
+mytimemobile.staples.com
+nd.staples.com
+nected.staples.com
+nedsbce-extb2.staples.com
+nedxwaye01.staples.com
+nedxwaye02.staples.com
+nedxwaye03.staples.com
+nedxwayes4b01.join.staples.com
+nedxwayes4b02.join.staples.com
+nedxwayes4b.join.staples.com
+nephos-tier-a-perf.staples.com
+news.staples.com
+ngassets.staples.com
+nginx-perf.staples.com
+nginx-sba-perf.staples.com
+nginx-sba-perf.staples.com (FQDN) --> a_record --> 170.37.102.86 (IPAddress)
+nginx-sba-qa-ned.staples.com
+nginx-sba-qa-ned.staples.com (FQDN) --> a_record --> 170.37.102.30 (IPAddress)
+nidcdns01.staples.com
+nidcnat1.staples.com
+nidcnat2.staples.com
+nidcqdns02.staples.com
+nk.connected.staples.com
+nnected.staples.com
+non-cac.api.staples.com
+notebook.staples.com
+ns1.staples.com
+nsp-qa.staples.com (FQDN) --> a_record --> 20.85.115.181 (IPAddress)
+o450.em.connected.staples.com
+o468.em.connected.staples.com
+o468.em.connected.staples.com (FQDN) --> a_record --> 149.72.1.221 (IPAddress)
+o470.em.connected.staples.com (FQDN) --> a_record --> 149.72.1.230 (IPAddress)
+o472.em.connected.staples.com
+o473.em.connected.staples.com
+o473.em.connected.staples.com (FQDN) --> a_record --> 149.72.132.205 (IPAddress)
+o475.em.connected.staples.com
+o499.productive.staples.com
+o500.productive.staples.com
+o656.em.connected.staples.com
+o658.em.connected.staples.com
+o659.em.connected.staples.com
+o660.em.connected.staples.com
+o775.ptr9895.jobalerts.staples.com
+ocrwebappqa-ned.staples.com
+ocrwebappqa.staples.com
+ocrwebapp.staples.com
+ocrweb-qa-ned.staples.com
+od.staples.com
+omp.easy.staples.com
+omptrans.email.staples.com
+onnected.staples.com
+opinions.staples.com
+optoro-qa-ned.staples.com
+optoroservices-ned.staples.com
+origin1.www.staples.com
+origin-api_mar.staples.com
+origin-api_ned.staples.com
+origin-edc-qa.staples.com
+origin-minternal-preprod.cloud.staples.com
+origin-minternal-qa.cloud.staples.com
+origin-mweb.cloud.staples.com
+origin-mweb-qa.staples.com
+origin-mweb.staples.com
+origin-nc2.staples.com
+origin-nc3.staples.com
+origin-ndm1-preprod.staples.com
+origin-ndm2-preprod.staples.com
+origin-ngx1.staples.com
+origin-ngx2.staples.com
+origin-ngx3.staples.com
+originnp.cloud.staples.com
+origin-rewards.staples.com
+origin-styleguide-accept.staples.com (FQDN) --> cname_record --> styleguide-accept.staples.com (FQDN)
+o.staples.com
+p15n.staples.com
+p15n.staples.com (FQDN) --> a_record --> 66.216.67.113 (IPAddress)
+paperclip.staples.com
+paper.staples.com
+papi.staples.com
+passgen.staples.com
+pcmperf.staples.com (FQDN) --> a_record --> 170.37.149.202 (IPAddress)
+pcmprod.cloud.staples.com
+pcmprod.staples.com
+pcmqa.staples.com
+pem-qa.staples.com
+pem.staples.com
+pen.staples.com
+perf1login-ca.staples.com
+perf1ssoapi.staples.com
+perf2login.staples.com
+perf2ssoapi.staples.com
+perf2.staples.com
+perfdr.staples.com
+perf.staples.com
+perf-staplespay.staples.com
+perfz.staples.com
+pilot.adh.staples.com (FQDN) --> a_record --> 20.230.141.242 (IPAddress)
+plmworld-old.staples.com
+plmworldqa.staples.com
+plmworld.staples.com
+powdps-ned.yantra.staples.com
+powdps.staples.com
+powdps_staples_com.cloud.staples.com
+powdps-wdc_cexp_ca.staples.com
+powdps-wdc_eway_ca.staples.com
+powdps-wdc_quill_com.staples.com (FQDN) --> a_record --> 170.131.4.34 (IPAddress)
+powdps-wdc_quillcorp_com.staples.com
+powdps-wdc_serviceswebbureauengros_ca.staples.com
+powdps-wdc_staples_ca.staples.com
+powdps-wdc.staples.com
+powdps-wdc_stapleslink_com.staples.com
+powdps-wdc_staplespreferred_ca.staples.com (FQDN) --> a_record --> 170.131.4.37 (IPAddress)
+powdps-wdc_staplesschooltools_ca.staples.com
+powdps-wdc_staplestech_ca.staples.com
+powdps-wdc_stapleswebservices_ca.staples.com
+powdps-wdc_yantra.staples.com
+powdps.yantra.staples.com
+powdps_yantra_staples_com.cloud.staples.com
+prd01-api-staplespay.cloud.staples.com
+prd01-app-staplespay.cloud.staples.com
+prd1.edi-eu.staples.com
+printingservices.staples.com
+printmarketing.staples.com
+print.staples.com
+print.staples.com (FQDN) --> cname_record --> print.staples.com.edgekey.net (FQDN)
+printuition.staples.com
+prochat01qa-new.staples.com
+prochat02qa.staples.com
+prochateuqa.staples.com
+prochateu.staples.com
+prochatqa.staples.com
+prochat.staples.com
+prod2-ned.staples.com
+prod-reloaded.staples.com
+product-support-int-ned.staples.com
+product-support-ned.staples.com
+product-support-ned.staples.com (FQDN) --> a_record --> 170.37.100.80 (IPAddress)
+productsupport.staples.com
+productsupport.staples.com (FQDN) --> cname_record --> product-support-int-ned.staples.com (FQDN)
+qa1design.staples.com
+qa1-reloaded.staples.com
+qa1-reloaded.staples.com (FQDN) --> a_record --> 170.37.146.125 (IPAddress)
+qa20.staples.com
+qa3-reloaded.staples.com
+qa4-ned.staples.com
+qa6n.sv.staples.com (FQDN) --> a_record --> 18.205.44.28 (IPAddress)
+qa6n.sv.staples.com (FQDN) --> a_record --> 3.232.208.133 (IPAddress)
+qa6.staples.com
+qa8.staples.com
+qaapi1-staplespay.staples.com
+qa-api-staplespay-ned.staples.com
+qaapp1-staplespay.staples.com
+qacl.staples.com
+qadesign.staples.com
+qadr.staples.com
+qaholidaycards.staples.com
+qalogin.staples.com
+qanpca.cloud.staples.com
+qanp.staples.com
+qapi.staples.com
+qapow1.staples.com
+qareplenish.staples.com
+qareplenish.staples.com (FQDN) --> a_record --> 170.37.106.2 (IPAddress)
+qarewards.staples.com
+qas1.edi-eu.staples.com
+qa-staplespay-ned.staples.com
+qa-staplespay.staples.com
+qa-staplespay.staples.com (FQDN) --> cname_record --> qa-staplespay.staples.com.edgekey.net (FQDN)
+qaz.staples.com
+qe101.staples.com
+qe1.staples.com
+qe20.staples.com
+qe2.staples.com
+qe30.staples.com
+qe31.staples.com
+qe.staples.com
+qp2.staplesadvantage.staples.com
+qstorelocator_mar.staples.com
+qstorelocator_ned.staples.com
+quillvpn.staples.com
+rcp-ne-apim-agw.az.staples.com
+rebate.staples.com
+refer.staples.com
+register.cloud.staples.com
+registernp.cloud.staples.com
+registernp.cloud.staples.com (FQDN) --> a_record --> 170.37.131.114 (IPAddress)
+registernp.cloud.staples.com (FQDN) --> a_record --> 170.37.131.214 (IPAddress)
+remote.staples.com
+retailcareers.staples.com
+reviews.staples.com
+rewards.staples.com
+rketingassets.staples.com
+rstperf-sa.staples.com
+rstqa-sa.staples.com
+rst-sa_ediversitynetwork_com.cloud.staples.com
+rst-sa_staplesadvantage_com.cloud.staples.com
+rst-sa_stapleslink_com.cloud.staples.com
+saas-dev.staples.com
+saas.staples.com
+sales.staples.com
+sameday.staples.com
+sapi.staples.com
+sapi.staples.com (FQDN) --> cname_record --> staples-staging.apigee.net (FQDN)
+scgtw_staplesb2b.cloud.staples.com
+sds.staples.com
+secdm.cloud.staples.com
+secdm.staples.com
+secdm-wdc.staples.com
+secqadm.staples.com
+secqadm.staples.com (FQDN) --> a_record --> 170.37.147.25 (IPAddress)
+secure1_staplescopyandprint_ca.cloud.staples.com
+secure1-wdc_staplescopyandprint_ca.staples.com
+secureaccess.staples.com
+sfa.staples.com
+shipping.staples.com
+siamdev-new.staples.com
+siamdev-new.staples.com (FQDN) --> a_record --> 170.37.149.24 (IPAddress)
+siam.staples.com
+sip.staples.com
+sip.staples.com (FQDN) --> cname_record --> sipdir.online.lync.com (FQDN)
+siteassessment.staples.com
+smetrics.staples.com
+smtp10.staples.com
+smtp13.staples.com
+smtp13.staples.com (FQDN) --> a_record --> 170.37.244.140 (IPAddress)
+smtp5.staples.com
+smtp6.staples.com
+smtp7.staples.com
+smtp9.staples.com
+softwaredownload.staples.com
+soscheckout-ned.staples.com
+soscheckout-perf-ned.staples.com
+soscheckout.staples.com
+soscheckout.staples.com (FQDN) --> cname_record --> soscheckout-ned.staples.com (FQDN)
+sparx-api-ned.staples.com
+sparx-api.staples.com
+spear_ned.staples.com
+spearprodsupport_ned.staples.com
+spearprodsupport.staples.com
+spear-qa1.staples.com
+spear-qa2.staples.com
+spear-qa2.staples.com (FQDN) --> cname_record --> spear-qa1.staples.com (FQDN)
+spear-qa3.staples.com
+spear-qa4.staples.com
+spearstage1_ned.staples.com
+spearstage1.staples.com
+spearstage2_ned.staples.com
+spearstage2.staples.com
+spear.staples.com
+spear.staples.com (FQDN) --> cname_record --> spear_ned.staples.com (FQDN)
+spear-temp.staples.com
+speartest1_ned.staples.com
+speartest1.staples.com
+speartest2_ned.staples.com
+speartest2.staples.com
+speartest3_ned.staples.com
+speartest3_ned.staples.com (FQDN) --> a_record --> 170.37.102.42 (IPAddress)
+speartest3.staples.com
+speartest4_ned.staples.com
+speartest4.staples.com
+splscppmwifi.staples.com
+splscppmwifi.staples.com (FQDN) --> a_record --> 172.18.99.10 (IPAddress)
+spotlight.staples.com
+srsapi-qa.staples.com
+srsapi.staples.com
+srsap-qa.staples.com
+srsap.staples.com
+ssets.staples.com
+ssoapi-new.staples.com
+ssoapi-perf2.staples.com
+ssoapi-qa.staples.com
+ssoapi.staples.com
+ssoapi.staples.com (FQDN) --> cname_record --> ssoapi-new.staples.com (FQDN)
+ssoperf-sa.staples.com
+ssoqa-sa.staples.com
+sso-qa.staples.com
+sso-qa.staples.com (FQDN) --> cname_record --> sso-qa.staples.com.edgekey.net (FQDN)
+sso-sa.cloud.staples.com
+sso-sa_ediversitynetwork_com.cloud.staples.com
+sso-sa_stapleslink_com.cloud.staples.com
+sso.staples.com
+s.staples.com
+stage4-ned.staples.com
+staplescmg01.staples.com
+staples.com
+staples.com (FQDN) --> mx_record --> staples-com.mail.protection.outlook.com (FQDN)
+staplespartners.cloud.staples.com
+storelocator-dev.staples.com
+storelocator-qa.staples.com
+storelocator.staples.com
+stores.staples.com
+sts.staples.com
+ststest.staples.com
+ststest.staples.com (FQDN) --> cname_record --> ststest.staples.com.edgekey.net (FQDN)
+styleguide-accept.staples.com
+styleguide.staples.com
+subnsaveperf1.staples.com
+subnsave-qa1.staples.com
+support-tradein.staples.com
+surveyeuqa.staples.com
+surveyeu.staples.com
+surveyeu.staples.com (FQDN) --> a_record --> 170.37.131.127 (IPAddress)
+surveyqa.staples.com
+survey.staples.com
+svopn.connected.staples.com
+svopn.ez.staples.com
+sv.staples.com
+tapi.staples.com
+test-m.staples.com
+testvpneast1.staples.com
+thirdpartyrisk.staples.com
+thirdpartyrisk.staples.com (FQDN) --> cname_record --> thirdpartyrisk-ussicorp5.msappproxy.net (FQDN)
+thor-perf-search-ned.staples.com
+thor-perf-search.staples.com
+thor-perf-search.staples.com (FQDN) --> cname_record --> thor-perf-search-ned.staples.com (FQDN)
+thor-perf.staples.com
+thor-perf-web-01-mar.staples.com
+thor-prod-fusion.staples.com
+thor-prod-fusion.staples.com (FQDN) --> a_record --> 170.37.100.36 (IPAddress)
+thor-prod-search-ned.staples.com
+thor-prod-search.staples.com
+thor-prod-web1-mar.staples.com
+thor-prod-web1-ned.staples.com
+tingassets.staples.com
+tlogin.staples.com
+tradein.staples.com
+trk.productive.staples.com
+tsc.staples.com
+tsc.staples.com (FQDN) --> a_record --> 170.37.100.16 (IPAddress)
+ts.staples.com
+tstage.staples.com
+t.staples.com
+t.staples.com (FQDN) --> cname_record --> t.staples.com.edgekey.net (FQDN)
+ttmail.staples.com (FQDN) --> cname_record --> u6882537.wl038.sendgrid.net (FQDN)
+tttrack.staples.com
+tunnelrelayqa.staples.com
+tunnelrelay.staples.com
+ume-perf1-ned.staples.com
+ume-perf2-ned.staples.com
+ume-prod3-ned.staples.com
+ume-qa20-ned.staples.com
+ume-qa8-ned.staples.com
+ume-qa-ned.staples.com
+ume-sba-prod1-ned.staples.com
+ume-sba-prod2-ned.staples.com
+url830.staples.com
+url879.staples.com
+uscoboulextbloxgmc.staples.com
+useast1vpn.staples.com
+useast2vpn.staples.com
+useast3vpn.staples.com
+useastvpn.cloud.staples.com
+useastvpn.cloud.staples.com (FQDN) --> a_record --> 170.37.244.22 (IPAddress)
+useastvpn.cloud.staples.com (FQDN) --> a_record --> 170.37.244.23 (IPAddress)
+useastvpn.cloud.staples.com (FQDN) --> a_record --> 170.37.244.31 (IPAddress)
+useastvpn.cloud.staples.com (FQDN) --> a_record --> 170.37.244.33 (IPAddress)
+useastvpn.cloud.staples.com (FQDN) --> a_record --> 170.37.244.34 (IPAddress)
+useastvpn.staples.com
+useastvpn.staples.com (FQDN) --> cname_record --> vpneast.cloud.staples.com (FQDN)
+useastxwaye01.staples.com
+uswestvpn.cloud.staples.com
+uswestvpn.staples.com
+uswestxwaye01.staples.com
+vcmext.staples.com
+vcm.staples.com
+velocity-alerts.staples.com
+vendoreast.staples.com
+vendorreporting-uat.staples.com
+vendor.staples.com
+vibeaccess1.staples.com
+vibeaccess2.staples.com
+vibeaccess.staples.com
+vibeaccesstst.staples.com
+viddercont1.staples.com
+viddercont1.staples.com (FQDN) --> a_record --> 170.37.134.30 (IPAddress)
+viddercont2.staples.com
+viddercont3.staples.com
+viddercont4.staples.com
+viddergw1.staples.com
+viddergw2.staples.com
+viddergw3.staples.com
+viddergw4.staples.com
+video.staples.com
+view.staples.com
+vndr.staples.com
+vpneast.cloud.staples.com
+vpneast.staples.com
+vpnfram.staples.com
+vpnwest.cloud.staples.com
+vpnwest.staples.com
+vpnwest.staples.com (FQDN) --> cname_record --> vpnwest.cloud.staples.com (FQDN)
+webmethods.cloud.staples.com
+webmethods.contractservices.staples.com
+webmethods.contractservicestest1.staples.com
+webmethods_prf_contractservices.cloud.staples.com
+webmethods.prf.contractservices.staples.com
+webmgateway1.staples.com
+weddings.staples.com
+weeklyad.staples.com
+weeklyad.staples.com (FQDN) --> cname_record --> weeklyad-v1.staples.com.edgekey.net (FQDN)
+weeklyad-v1.staples.com
+wisync.staples.com
+wmpr1.contractservices.staples.com
+wmpr2.contractservices.staples.com
+wmqp1-contractservicestest1.staples.com
+www001.staples.com
+www002.staples.com
+www002.staples.com (FQDN) --> cname_record --> www.staples.com (FQDN)
+www003.staples.com
+www2.staples.com
+www.associateconnection.staples.com
+www.associateconnection.staples.com (FQDN) --> cname_record --> associateconnection.staples.com (FQDN)
+www.careers.staples.com
+www.cloud.staples.com
+www-dev.esb-eu.staples.com
+www.holidaycards.staples.com
+www-prd.edi-eu.staples.com
+www.print.staples.com
+www.print.staples.com (FQDN) --> cname_record --> print.staples.com.edgekey.net (FQDN)
+www.productsupport.staples.com
+www.qa-product-support.staples.com
+www-qas.edi-eu.staples.com
+www-qas.esb-eu.staples.com
+www.rewards.staples.com
+www.staples.com
+www.staplespartners.cloud.staples.com
+www-uat.edi-eu.staples.com
+www-uat.edi-eu.staples.com (FQDN) --> a_record --> 62.23.4.27 (IPAddress)
+xfer.staples.com

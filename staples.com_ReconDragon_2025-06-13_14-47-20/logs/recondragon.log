@@ -1,0 +1,72 @@
+
+The enumeration has finished
+puredns error: unable to load public resolvers: open resolvers.txt: no such file or directory
+Failed to open resolver file: No such file or directory
+
+    __    __  __       _  __
+   / /_  / /_/ /_____ | |/ /
+  / __ \/ __/ __/ __ \|   /
+ / / / / /_/ /_/ /_/ /   |
+/_/ /_/\__/\__/ .___/_/|_|
+             /_/
+
+		projectdiscovery.io
+
+[[34mINF[0m] Current httpx version v1.7.0 ([92mlatest[0m)
+[[93mWRN[0m] UI Dashboard is disabled, Use -dashboard option to enable
+flag provided but not defined: -depth
+Usage of hakrawler:
+  -d int
+    	Depth to crawl. (default 2)
+  -dr
+    	Disable following HTTP redirects.
+  -h string
+    	Custom headers separated by two semi-colons. E.g. -h "Cookie: foo=bar;;Referer: http://example.com/" 
+  -i	Only crawl inside path
+  -insecure
+    	Disable TLS verification.
+  -json
+    	Output as JSON.
+  -proxy string
+    	Proxy URL. E.g. -proxy http://127.0.0.1:8080
+  -s	Show the source of URL based on where it was found. E.g. href, form, script, etc.
+  -size int
+    	Page size limit, in KB. (default -1)
+  -subs
+    	Include subdomains for crawling.
+  -t int
+    	Number of threads to utilise. (default 8)
+  -timeout int
+    	Maximum time to crawl each URL from stdin, in seconds. (default -1)
+  -u	Show only unique urls.
+  -w	Show at which link the URL is found.
+no such pattern
+no such pattern
+Traceback (most recent call last):
+  File "/usr/bin/arjun", line 33, in <module>
+    sys.exit(load_entry_point('arjun==2.2.7', 'console_scripts', 'arjun')())
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3/dist-packages/arjun/__main__.py", line 201, in main
+    for request in requests:
+                   ^^^^^^^^
+TypeError: 'NoneType' object is not iterable
+
+                     __     _
+   ____  __  _______/ /__  (_)
+  / __ \/ / / / ___/ / _ \/ /
+ / / / / /_/ / /__/ /  __/ /
+/_/ /_/\__,_/\___/_/\___/_/   v3.4.4
+
+		projectdiscovery.io
+
+[[93mWRN[0m] The concurrency value is higher than max-host-error
+[[34mINF[0m] Adjusting max-host-error to the concurrency value: 50
+[[31mWRN[0m] Found 5 templates with runtime error (use -validate flag for further examination)
+[[34mINF[0m] Current nuclei version: v3.4.4 ([92mlatest[0m)
+[[34mINF[0m] Current nuclei-templates version: v10.2.2 ([92mlatest[0m)
+[[93mWRN[0m] Scan results upload to cloud is disabled.
+[[34mINF[0m] New templates added in latest release: 5
+[[34mINF[0m] Templates loaded for current scan: 7956
+[[34mINF[0m] Executing 7563 signed templates from projectdiscovery/nuclei-templates
+[[93mWRN[0m] Loading 393 unsigned templates for scan. Use with caution.
+[[34mINF[0m] Scan completed in 56.810265ms. No results found.
