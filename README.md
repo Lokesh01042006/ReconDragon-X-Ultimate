@@ -33,112 +33,113 @@
 
 ### 1️⃣ Clone Repository
 
-```bash
-git clone https://github.com/Lokesh01042006/ReconDragon-X-Ultimate.git
+git clone https://github.com/Lokesh01042006/ReconDragon-X-Ultimate.git  
 cd ReconDragon-X-Ultimate
-2️⃣ Give Permissions
-bash
-Copy
-Edit
+
+### 2️⃣ Give Permissions
+
 chmod +x install.sh update.sh recondragon.sh
-3️⃣ Install Dependencies
-bash
-Copy
-Edit
+
+### 3️⃣ Install Dependencies
+
 ./install.sh
-🔐 Telegram Notification Setup
-1️⃣ Create Telegram Bot
-Talk to @BotFather
 
-Run /newbot → Get your BOT TOKEN
+---
 
-2️⃣ Get Chat ID
-Send message to your bot.
+## 🔐 Telegram Notification Setup
 
-Visit this URL:
+### 1️⃣ Create Telegram Bot
 
-bash
-Copy
-Edit
+- Talk to @BotFather
+- Run /newbot → Get your BOT TOKEN
+
+### 2️⃣ Get Chat ID
+
+- Send message to your bot.
+- Visit this URL:
+
 https://api.telegram.org/bot<YOUR-TOKEN>/getUpdates
-Copy your chat id from response.
 
-3️⃣ Edit Config
-bash
-Copy
-Edit
+- Copy your chat id from response.
+
+### 3️⃣ Edit Config
+
 nano config.env
+
 Paste:
 
-ini
-Copy
-Edit
-BOT_TOKEN="your-telegram-bot-token"
+BOT_TOKEN="your-telegram-bot-token"  
 CHAT_ID="your-chat-id"
+
 ✅ Save.
 
-🌐 DNS Resolvers Setup
+---
+
+## 🌐 DNS Resolvers Setup
+
 Edit your resolvers.txt file:
 
-bash
-Copy
-Edit
 nano resolvers.txt
+
 Paste some public resolvers:
 
-Copy
-Edit
-1.1.1.1
-8.8.8.8
-8.8.4.4
-9.9.9.9
+1.1.1.1  
+8.8.8.8  
+8.8.4.4  
+9.9.9.9  
 208.67.222.222
-📂 Wordlist (already included)
+
+---
+
+## 📂 Wordlist (already included)
+
 If missing:
 
-bash
-Copy
-Edit
-mkdir wordlists
+mkdir wordlists  
 wget https://raw.githubusercontent.com/danielmiessler/SecLists/master/Discovery/Web-Content/common.txt -O wordlists/fast-wordlist.txt
-🚀 Usage
-bash
-Copy
-Edit
+
+---
+
+## 🚀 Usage
+
 ./recondragon.sh target.com
+
 or full URL:
 
-bash
-Copy
-Edit
 ./recondragon.sh https://sub.target.com/path
+
 ✅ Recon fully automated.
 
-🔄 Update Tools
-bash
-Copy
-Edit
+---
+
+## 🔄 Update Tools
+
 ./update.sh
-📊 Output
-Subdomains
 
-Resolved Domains
+---
 
-Live Hosts
+## 📊 Output
 
-URLs
+- Subdomains
+- Resolved Domains
+- Live Hosts
+- URLs
+- Parameters
+- Vulnerabilities
+- Reports generated automatically.
 
-Parameters
+---
 
-Vulnerabilities
+## 🔥 Author
 
-Reports generated automatically.
+- Developed by Lokesh
+- Built with ❤️ for Bug Bounty Hunters
 
-🔥 Author
-Developed by Lokesh
+---
 
-Built with ❤️ for Bug Bounty Hunters
+## 📄 License
 
-📄 License
-MIT License — Free to use, modify & share!# ReconDragon-X-Ultimate
-Advanced Bug Bounty Recon Automation Framework with Telegram Notifications - Built by Lokesh
+MIT License — Free to use, modify & share!
+
+---
+
